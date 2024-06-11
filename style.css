@@ -1,0 +1,111 @@
+
+  
+  header {
+    /* background-color: #0056b3; */
+    /* color: white; */
+    /* text-align: center; */
+    padding: 10px 0;
+    font-family: cursive;
+
+  }
+  
+.head{
+    
+    display: inline-flex;
+}
+/* .bookCover {
+    float: left;
+    margin-right: 20px; 
+} */
+
+
+
+  #intro{
+    padding: 0;
+    font-size: 16px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 35px;
+    color: #0056b3;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  /* Book Styles */
+  .abook {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    overflow: hidden; /* Added for image alignment */
+  }
+  
+  .abook h2 {
+    margin-top: 0;
+    font-size: 24px;
+  }
+  
+  .abook small {
+    color: #666;
+  }
+  
+  .abook p {
+    margin-bottom: 10px;
+  }
+  
+  .abook a {
+    color: #0056b3;
+    text-decoration: none;
+  }
+  
+  .abook a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Image Styles */
+  .abook figure {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px; /* Added margin-bottom for spacing */
+  }
+  
+  .abook img {
+    max-width: 150px; 
+    height: auto;
+    display: block;
+  }
+  
+  /* Sorters */
+  #sorters {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: cursive;
+  }
+  
+  #sorters a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #0056b3;
+  }
+  
+  #sorters a:hover {
+    text-decoration: underline;
+  }
+
+  
+
+.main{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, rgb(195, 171, 218,0.5), rgba(255, 0, 0, 0));
+  color: #333;
+}
+
+  
