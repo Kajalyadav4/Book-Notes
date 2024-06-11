@@ -1,0 +1,66 @@
+[
+    {
+        "title":"The Silent Patient",
+        "date_read":"2023/5/02",
+        "recommendation":"9", 
+        "genre":"Psychological Thriller", 
+        "isbn":"9781250301697", 
+        "summary":"The Silent Patient by Alex Michaelides is a gripping psychological thriller about Alicia Berenson, a mute woman institutionalized for murdering her husband. Psychotherapist Theo Faber becomes obsessed with her case, seeking to uncover the truth behind her silence. The book delves into themes of trauma and obsession delivering shocking revelations and an unexpected conclusion that challenges perceptions about the characters and the murder."
+    },
+    {
+        "title":"I am Blue in Pain and Fragile",
+        "date_read":"2024/12/27",
+        "recommendation":"7", 
+        "genre":"Contemporary fiction", 
+        "isbn":"9781638581109s", 
+        "summary":"Blue in Pain and Fragile follows Azuma, a high school boy who gains the memories and emotions of a heart donor after his transplant. He uncovers the donor's past, understanding her joys and sorrows. Through this connection, Azuma navigates conflicting emotions, finding healing and resolution for the donor's regrets. The novel explores the intertwining of lives and emotions beyond death, highlighting themes of love, loss, and resilience."
+    },
+    {
+        "title":"The Kite Runner",
+        "date_read":"2023/9/15",
+        "recommendation":"10", 
+        "genre":"Historical Fiction", 
+        "isbn":"9781594631931", 
+        "summary":"The Kite Runner by Khaled Hosseini follows Amir, a boy from Kabul, and his friend Hassan. Betrayal strains their friendship, set against Afghanistan turmoil. Fleeing to America, Amir returns as an adult to seek redemption, facing guilt and seeking forgiveness in a poignant tale of personal and national tragedy."
+    },
+    {
+        "title":"Atomic Habits",
+        "date_read":"2022/2/12",
+        "recommendation":"10", 
+        "genre":"Personal Development", 
+        "isbn":"0735211299", 
+        "summary":"Atomic Habits by James Clear explores the science of habit formation, emphasizing small changes that yield big results. Clear dissects habit loops, cues, cravings, responses, and rewards, offering practical strategies to build better habits and break harmful ones. The book highlights the role of environment, identity, and mindset in shaping behavior, providing a roadmap for long-term change and continuous improvement."
+    },
+    {
+        "title":"It Ends With Us",
+        "date_read":"2023/8/5",
+        "recommendation":"7", 
+        "genre":"Paranormal Romance", 
+        "isbn":"1501110365", 
+        "summary":"Colleen Hoover's 'It Ends with Us' follows Lily Bloom as she navigates love and life. Her past influences her relationship with neurosurgeon Ryle Kincaid, which starts promising but becomes turbulent due to Ryle's unpredictability. The story delves into themes of love, sacrifice, and confronting painful truths, highlighting resilience and the struggle to break destructive patterns."
+    },
+    {
+        "title":"In Cold Blood",
+        "date_read":"2020/10/21",
+        "recommendation":"8", 
+        "genre":"Non-fiction Crime", 
+        "isbn":"0679745580", 
+        "summary":"Truman Capote's In Cold Blood recounts the true story of the brutal murder of the Clutter family in Kansas. It follows the investigation, capture, and trial of the killers, Perry Smith and Richard Hickock. The book explores the psychology of the murderers and the community's reaction, offering a chilling portrayal of violence and the search for justice."
+    },
+    {
+        "title":"The Color Purple",
+        "date_read":"2024/01/2",
+        "recommendation":"5", 
+        "genre":"Epistolary fiction", 
+        "isbn":"9780156028356", 
+        "summary":"Set in the early 20th century South, 'The Color Purple' by Alice Walker chronicles Celie's harrowing experiences through letters to God and her sister. Enduring abuse and oppression, Celie finds resilience and empowerment through relationships with women like Shug Avery. The novel explores themes of female strength, resilience, and self-discovery within the constraints of societal prejudice and oppression."
+    },
+    {
+        "title":"Perfect Ruin",
+        "date_read":"2024/02/18",
+        "recommendation":"6", 
+        "genre":"Romance Trajedy", 
+        "isbn":"9781432891435", 
+        "summary":"Perfect Ruin by Shanora Williams follows the story of Payton and Dominic, who meet unexpectedly and feel an intense connection despite their troubled pasts. As they navigate their emotional baggage and insecurities, their relationship becomes a journey of healing, trust, and redemption, highlighting the power of love in overcoming personal struggles and finding happiness."
+    }
+]
