@@ -29,12 +29,5 @@ Users can write summaries or reviews, and access all their reading notes in a st
 
 ---
 
-## Tools & Technologies
-
-- **Frontend**: HTML, CSS, JavaScript, React.js  
-- **Backend**: Node.js, Express.js  
-- **Database**: PostgreSQL  
-- **Version Control**: Git & GitHub
-
 
 
